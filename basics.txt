@@ -1,13 +1,15 @@
 ::::::DC Power::::::
 -Batteries
 -Any devices that work better with DC 
--DC motors (less efficient, easier to build, but high starting torque and no need for synch). These will be the first motors players will build.
+-DC motors (less efficient, easier to build, but high starting torque and no need for synch). 
+These will be the first motors players will build.
 -Very inefficient power transmission (DC losses much more power through transmission, and DC can't be transformed).
 
 ::::::AC Power::::::
 -Batteries that can have two or three phase switching outputs (artificial-AC power storage).
 -AC motors (Far more efficient, but low torque at low speeds, and if it's a synch motor --  risk of desychronization).
--All machines with motors in them will run better with AC -if done right-. Motors can be swapped. These will be the prefered motor of choice with much better power utilization.
+-All machines with motors in them will run better with AC -if done right-. Motors can be swapped. These will be the 
+prefered motor of choice with much better power utilization.
 -Very efficient power transmission via transformation.
 -Coils hidden under a rival's power lines will effectively steal energy from them.
 
@@ -18,7 +20,10 @@
 
 ::::::Energy Production::::::
 -Geothermal Turbines that will produce mechanical energy that can be used to turn a generator.
--Hydromechanical Turbines will use the flow of water to produce mechanical energy. Must be flowing water. Power will modulate based on the number of FLOWING water blocks and the number of source water blocks upstream of the flow. This is to balance the use of hydroelectric power. A larger, dam-like structure with a large amount of water behind it will be most efficient/effective
+-Hydromechanical Turbines will use the flow of water to produce mechanical energy. Must be flowing water. Power will 
+modulate based on the number of FLOWING water blocks and the number of source water blocks upstream of the flow. This 
+is to balance the use of hydroelectric power. A larger, dam-like structure with a large amount of water behind it will 
+be most efficient/effective
 -Combustion, steam, wind, nuclear, ......
 
 ::::::Electricity::::::
