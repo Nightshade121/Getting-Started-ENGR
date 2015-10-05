@@ -1,0 +1,3 @@
+Here is the basics of uploading some kind of a file to git!
+
+Yay!
