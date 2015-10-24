@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ENGR",
+  "name": "ENGR",
+  "description": "A conceptually realistic mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Nightshade121/Getting-Started-ENGR",
+  "updateUrl": "",
+  "authorList": ["Nightshade121"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
